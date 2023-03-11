@@ -2,4 +2,4 @@ bu bir test dosyasıdır.
 
 Test Branch line added.
 
-Test Branch 2. line added.
+Main Branch revert test.
