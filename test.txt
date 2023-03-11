@@ -1,10 +1,5 @@
 bu bir test dosyasıdır.
-yusuf kağan.
-azracım.
-kerimcim.
-burcum.
-dila-fatmacım.
-
-
 
 Test Branch line added.
+
+Test Branch 2. line added.
